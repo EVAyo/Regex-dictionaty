@@ -1,7 +1,8 @@
 # Regex-dictionaty 
 
 ## Description:
-*Regex Dictionary is an iOS shortcuts.* 
+*Regex Dictionary is an iOS shortcuts.*  
+
 This shortcuts is designed to help developer to learn and use Regex easily and effectively. 
 
 ## Main functions:
